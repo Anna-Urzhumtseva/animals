@@ -1,5 +1,5 @@
 namespace Animals
-{
+{ 
     public class Bear: Animal
     {
         private string Name { get; set; }

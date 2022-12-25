@@ -28,7 +28,7 @@ namespace Animals
             this.Age = age;
             this.Type = type;
         }
-
+ 
         public abstract string About();
 
         public abstract void Move();
